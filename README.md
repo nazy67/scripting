@@ -19,6 +19,7 @@ bash bash_scripts/<script>
 #### Note: Change  ```<scripts>``` to script name.
 
 
+
 ## Usage of [Python_scripts](python_scripts)
 
 ```bash
