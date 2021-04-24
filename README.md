@@ -4,9 +4,7 @@ Basic System Admin Scripts
 ### [bash_scripts](bash_script) - basic bash scripts for System Admins and System Engineers
 
 ### [python_scripts](python_scripts) - python scripts for System Admins and System Engineers
-
-
-
+mo
 ### Git branches
 ```
 git branch "branch name"
