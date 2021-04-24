@@ -16,14 +16,14 @@ git clone https://github.com/nazy67/scripting
 bash bash_scripts/<script>
 ```
 
-#### Note: Change  ```<scripts>``` to script name.
+#### Note: Change  ```<script>``` to script name.
 
 
 
 ## Usage of [Python_scripts](python_scripts)
 
-```bash
+```
 python python_scripts/<script>
 ```
 
-#### Note: Change  ```<scripts>``` to script name.
+#### Note: Change  ```<script>``` to script name.
