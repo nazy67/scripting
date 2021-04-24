@@ -1,6 +1,6 @@
 # Basic bash scripts for System Admins and System Engineers
 
-This repo contains some simple and useful scripts for system admins and system engineers.
+This repository contains some simple and useful scripts for system admins and system engineers.
 
 ## Clone this repository
 
@@ -18,7 +18,6 @@ bash bash_scripts/<script>
 
 #### Note: Change  ```<scripts>``` to script name.
 
-...
 
 ## Usage of [Python_scripts](python_scripts)
 
